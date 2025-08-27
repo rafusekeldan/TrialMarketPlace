@@ -6,7 +6,7 @@ mongo:
   password: ""
 
 logging:
-  discord_webhook: "https://your-webhook-url.com"
+  discord_webhook: ""
 
 marketplace:
   max-listings-per-player: 10
