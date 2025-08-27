@@ -1,0 +1,4 @@
+name: TrialMarketPlace
+version: '1.0-SNAPSHOT'
+main: com.nebix.marketplace.MarketPlacePlugin
+api-version: '1.20'

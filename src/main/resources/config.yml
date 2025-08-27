@@ -1,0 +1,14 @@
+mongo:
+  host: localhost
+  port: 27017
+  database: marketplace
+  username: ""
+  password: ""
+
+logging:
+  discord_webhook: "https://your-webhook-url.com"
+
+marketplace:
+  max-listings-per-player: 10
+  blackmarket-discount: 50
+  blackmarket-reimbursement-multiplier: 2

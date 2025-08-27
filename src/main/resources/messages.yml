@@ -1,0 +1,4 @@
+prefix: "&7[&bMarketPlace&7] "
+messages:
+  item-sold: "&aYou sold your item for &f$%price%&a!"
+  error-no-item: "&cYou must be holding an item!"
